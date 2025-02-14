@@ -1,4 +1,4 @@
-# Java-programing-question
-to solve the lcm and hcf
+<b>Java Number Programming Quesition </b>
+to solve the all types of programing quesion in java
 <br>
 author - rupesh
